@@ -1,6 +1,7 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{DFDD8729-4DB0-3143-DA33-4B9B2B3890AA}",
+
+	"EngineAssociation": "4.17",
 	"Category": "",
 	"Description": "",
 	"Modules": [
